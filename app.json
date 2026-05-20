@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "SoFi Deal — Snack",
+    "slug": "sofi-deal-snack",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android"],
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#DFEFFF"
+    },
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}
