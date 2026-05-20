@@ -15,6 +15,7 @@ export function RootNavigator() {
   return (
     <NavigationContainer>
       <Stack.Navigator
+        id={undefined}
         initialRouteName="DealOverview"
         screenOptions={{ headerShown: false, animation: 'slide_from_right' }}
       >
